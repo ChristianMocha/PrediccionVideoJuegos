@@ -30,7 +30,6 @@ Video_Games_Sales_as_at_22_Dec_2016: muestra las futuras ventas de los vidojuego
 
 - LogisticRegression
 
-MIT Vea el archivo de LICENCIA para el aviso de copyright.
 
 # Referencias
 
