@@ -1,6 +1,6 @@
 # PrediccionVideoJuegos
 
-Este cuaderno de Jupyter demusra la aplicacion de 3 modelos de clasificacion para la prediccion de ventas e videojuegos. Esto modelos son: Random forest, regresion logistica y maquinas de soporte vectorial (SVM). Los cuadernos utilizan el conjunto de datos Video_Games_Sales_as_at_22_Dec_2016 [ 1 ] para mostrar la efectividad de los modelos de predicciona. 
+Este cuaderno de Jupyter demesura la aplicacion de 3 modelos de clasificacion para la prediccion de ventas e videojuegos. Esto modelos son: Random forest, regresion logistica y maquinas de soporte vectorial (SVM). Los cuadernos utilizan el conjunto de datos Video_Games_Sales_as_at_22_Dec_2016 [ 1 ] para mostrar la efectividad de los modelos de predicciona. 
 
 El cuaderno proporciona los siguientes flujos de trabajo:
 
