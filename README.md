@@ -8,30 +8,30 @@ Video_Games_Sales_as_at_22_Dec_2016: carga y procesa datos para prepararlos para
 
 Video_Games_Sales_as_at_22_Dec_2016: muestra las futuras ventas de los vidojuegos.
 
-Requisitos
+# Requisitos
 
-Python 3.7
+- Python 3.7
 
-pandas 
+- pandas 
 
-matplotlib 
+- matplotlib 
 
-numpy 
+- numpy 
 
-RandomForestClassifier
+- RandomForestClassifier
 
-svm
+- svm
 
-time
+- time
 
-LabelEncoder
+- LabelEncoder
 
-GridSearchCV
+- GridSearchCV
 
-LogisticRegression
+- LogisticRegression
 
 MIT Vea el archivo de LICENCIA para el aviso de copyright.
 
-Referencias
+# Referencias
 
 [ 1 ] Video_Games_Sales_as_at_22_Dec_2016Dataset. https://www.kaggle.com/diegoduchimaza/paper?select=Video_Games_Sales_as_at_22_Dec_2016.csv
